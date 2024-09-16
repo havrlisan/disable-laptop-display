@@ -1,0 +1,25 @@
+object frmDisableLaptopDisplay: TfrmDisableLaptopDisplay
+  Left = 0
+  Top = 0
+  Border.Styling = False
+  BorderIcons = []
+  BorderStyle = None
+  Caption = 'Disable laptop display'
+  ClientHeight = 480
+  ClientWidth = 640
+  Fill.Color = claBlack
+  Fill.Kind = Solid
+  Quality = HighPerformance
+  SystemStatusBar.Visibility = Invisible
+  FormStyle = StayOnTop
+  WindowState = wsMaximized
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  FullScreen = True
+  ShowFullScreenIcon = True
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnKeyUp = FormKeyUp
+  DesignerMasterStyle = 0
+end
