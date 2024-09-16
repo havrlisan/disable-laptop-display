@@ -6,3 +6,7 @@ A simple Windows application that dims the laptop display as much as possible. U
 The app completely lowers the brightness of the display it is on and overlays a black color. It automatically opens on a secondary screen. When closed, the previous brightness will be set.
 
 Press `Esc` to close the app.
+
+
+
+Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a>
